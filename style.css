@@ -30,6 +30,14 @@ body {
 
 .column {
     max-width: 200px;
+    flex-grow: 1
+}
+
+label {
+    padding: 8px;
+    font-weight: 300;
+    letter-spacing: .09em;
+    text-transform: uppercase;
 }
 
 @media only screen and (max-width: 1026px) {
@@ -39,12 +47,14 @@ body {
     .hide-div {
         display: none;
     }
-
+    .logo {
+        order: -1;
+    }
 }
 
 input,
 textarea{
-    padding: 15px;
+    padding: 10px;
     border: none;
 }
 
@@ -58,13 +68,6 @@ textarea {
     height: 100px;
 }
 
-.column label {
-    padding: 8px;
-    font-weight: 300;
-    letter-spacing: .09em;
-    text-transform: uppercase;
-}
-
 button {
     margin-left: auto;
     padding: 8px 16px;
@@ -76,7 +79,7 @@ button {
     border-radius: 2px;
 }
 
-.custom-file-upload {
+.file-upload {
     color: #1171BB;
     border: 1px solid #ccc;
     background: white;
@@ -92,4 +95,8 @@ button {
 
 .input-error {
     border-color: red;
+}
+
+.test {
+    align-self: flex-end;
 }
