@@ -1,18 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="165b8f5a-fa1c-4de8-b7e0-3aa7e1dfead5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="034cafe5-3014-4f02-a273-7cea68fd8827" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/browserconfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/TOC.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/css.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/extend.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/faq.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/html.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/js.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/misc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/usage.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend-project1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/humans.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/vendor/modernizr-3.11.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site.webmanifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tile-wide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tile.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="240v6CrucCSPmnKwobskgehADiS" />
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2416suLDi5sfLrgcyn5z34N1egA" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -21,16 +75,39 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="165b8f5a-fa1c-4de8-b7e0-3aa7e1dfead5" name="Changes" comment="" />
-      <created>1642780142955</created>
+      <changelist id="034cafe5-3014-4f02-a273-7cea68fd8827" name="Changes" comment="" />
+      <created>1642785957480</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1642780142955</updated>
+      <updated>1642785957480</updated>
+      <workItem from="1642785958862" duration="24358000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -1,0 +1,95 @@
+body {
+    font: normal 18px/1.5 "Fira Sans", "Helvetica Neue", sans-serif;
+    background: #1171BB;
+    color: #fff;
+    padding: 50px 0;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container * {
+    box-sizing: border-box;
+    list-style-type: none;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-flow: row wrap;
+    margin: 15px;
+}
+
+.row div:first-child {
+    width: 200px;
+}
+
+.column {
+    max-width: 200px;
+}
+
+@media only screen and (max-width: 1026px) {
+    .row div:first-child {
+        max-width: 100px;
+    }
+    .hide-div {
+        display: none;
+    }
+
+}
+
+input,
+textarea{
+    padding: 15px;
+    border: none;
+}
+
+select {
+    border: none;
+    width: 100px;
+}
+
+textarea {
+    width: 200px;
+    height: 100px;
+}
+
+.column label {
+    padding: 8px;
+    font-weight: 300;
+    letter-spacing: .09em;
+    text-transform: uppercase;
+}
+
+button {
+    margin-left: auto;
+    padding: 8px 16px;
+    border: none;
+    background: white;
+    color: #1171BB;
+    text-transform: uppercase;
+    letter-spacing: .09em;
+    border-radius: 2px;
+}
+
+.custom-file-upload {
+    color: #1171BB;
+    border: 1px solid #ccc;
+    background: white;
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+}
+
+.error {
+    color: red;
+    font-size: small;
+}
+
+.input-error {
+    border-color: red;
+}
