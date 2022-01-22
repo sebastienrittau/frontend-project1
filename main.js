@@ -24,6 +24,8 @@ async function submitForm() {
             var successMessage = document.getElementById("success-message");
             jobForm.hidden = true;
             successMessage.hidden = false;
+        } else {
+            alert("An error occured when trying to submit, please try again");
         }
     }
 }
